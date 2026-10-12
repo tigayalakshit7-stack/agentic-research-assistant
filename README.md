@@ -10,7 +10,7 @@
 [![Groq](https://img.shields.io/badge/Groq-412991?style=flat-square)](https://groq.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
-[**Live Demo**](#) · [**Architecture**](docs/architecture.md) · [**Report Bug**](https://github.com/tigayalakshit7-stack/agentic-research-assistant/issues)
+[**Live Demo**](#) · [**Architecture**](docs/architecture.md) · [**Report Bug**](https://agentic-research-assistant-laksh.streamlit.app/)
 
 </div>
 
